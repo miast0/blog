@@ -1,0 +1,33 @@
+baseURL = 'http://miast0.github.io/'
+languageCode = 'en'
+defaultContentLanguage = 'en'
+title = 'Miast.io'
+theme="gokarna"
+pygmentsStyle = "monokai"
+
+[menu]
+	[[menu.main]]
+		identifier = "home"
+		url = "/"
+		name = "Home"
+		weight = 1
+		pre = "<span data-feather='home'></span>"
+	[[menu.main]]
+		indentifier = "posts"
+		url = "/posts/"
+		name = "Posts"
+		weight = 2
+		pre = "<span data-feather='book'></span>"
+
+[params]
+	avatarURL = "https://pbs.twimg.com/profile_images/1461302093722136579/xUumIy2K_400x400.jpg"
+	avatarSize = "size-m"
+	description = ""
+	accentColor = "#1ecbe1"
+	footer = "miast.io"
+	showPostsOnHomePage = "recent"
+	togglePreviousAndNExtButtons = "true"
+	socialIcons = [
+			{name = "twitter", url ="https://twitter.com/miastoDB"},
+			{name = "github", url="https://github.com/miast0"},
+			]

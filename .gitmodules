@@ -1,0 +1,9 @@
+[submodule "miast.io/themes/themes/gokarna"]
+	path = miast.io/themes/themes/gokarna
+	url = https://github.com/526avijitgupta/gokarna.git
+[submodule "miast.io/themes/gokarna"]
+	path = miast.io/themes/gokarna
+	url = https://github.com/526avijitgupta/gokarna.git
+[submodule "miast.io/public"]
+	path = miast.io/public
+	url = https://github.com/miast0/miast0.github.io.git
