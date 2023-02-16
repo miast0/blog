@@ -1,4 +1,4 @@
-baseURL = 'http://miast0.github.io/'
+baseURL = 'https://miast0.github.io/'
 languageCode = 'en'
 defaultContentLanguage = 'en'
 title = 'Miast.io'
